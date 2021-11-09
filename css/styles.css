@@ -177,7 +177,7 @@ body {
   color: var(--accent-color);
 }
 
-.map {
+.map-link {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -186,8 +186,8 @@ body {
   color: var(--primary-color);
 }
 
-.map:hover,
-.map:focus {
+.map-link:hover,
+.map-link:focus {
   color: var(--accent-color);
 }
 
